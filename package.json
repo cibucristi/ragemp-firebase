@@ -38,7 +38,8 @@
 	},
 	"dependencies": {
 		"colorette": "^2.0.16",
-		"dotenv": "^16.0.0"
+		"dotenv": "^16.0.0",
+		"firebase-admin": "^11.10.1"
 	},
 	"prettier": {
 		"$schema": "http://json.schemastore.org/prettierrc",
